@@ -1,15 +1,14 @@
 # Henrik Hestnes’s Homebrew tap
 
-Install [MacMural](https://github.com/henrikhestnes/MacMural), a lightweight macOS screen annotation app:
-
-```sh
-brew install --cask henrikhestnes/tap/macmural
-```
+| App | Install |
+| --- | --- |
+| [MacMural](https://github.com/henrikhestnes/MacMural), a lightweight macOS screen annotation app | `brew install --cask henrikhestnes/tap/macmural` |
+| [MacSnip](https://github.com/henrikhestnes/MacSnip), an Ubuntu-style screenshot tool for the menu bar | `brew install --cask henrikhestnes/tap/macsnip` |
 
 Homebrew automatically adds this tap. To add it separately, use `brew tap henrikhestnes/tap`.
 
-Update with `brew update` and `brew upgrade --cask macmural`.
+Update with `brew update` and `brew upgrade --cask macmural` or `brew upgrade --cask macsnip`.
 
-MacMural’s source and release downloads are hosted in [henrikhestnes/MacMural](https://github.com/henrikhestnes/MacMural). This repository contains the Homebrew cask, pinned to a published release and its SHA-256 checksum.
+Each app’s source and release downloads are hosted in its own repository. This repository contains the Homebrew casks, each pinned to a published release and its SHA-256 checksum.
 
-The app is ad-hoc signed and is not notarized by Apple. This cask does not disable or bypass Gatekeeper.
+The apps are ad-hoc signed and are not notarized by Apple. These casks do not disable or bypass Gatekeeper.
