@@ -4,6 +4,7 @@
 | --- | --- |
 | [MacMiddleClick](https://github.com/henrikhestnes/MacMiddleClick), middle clicks with a three-finger tap or click on the trackpad | `brew install --cask henrikhestnes/tap/macmiddleclick` |
 | [MacMural](https://github.com/henrikhestnes/MacMural), a lightweight macOS screen annotation app | `brew install --cask henrikhestnes/tap/macmural` |
+| [MacMusicBlock](https://github.com/henrikhestnes/MacMusicBlock), a menu bar app that stops Apple Music from opening | `brew install --cask henrikhestnes/tap/macmusicblock` |
 | [MacSnip](https://github.com/henrikhestnes/MacSnip), an Ubuntu-style screenshot tool for the menu bar | `brew install --cask henrikhestnes/tap/macsnip` |
 
 Homebrew automatically adds this tap. To add it separately, use `brew tap henrikhestnes/tap`.
