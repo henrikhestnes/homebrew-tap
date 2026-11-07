@@ -4,6 +4,7 @@
 | --- | --- |
 | [MacHyperKey](https://github.com/henrikhestnes/MacHyperKey), turns caps lock or another key into a hyper key (⌃⌥⌘) | `brew install --cask henrikhestnes/tap/machyperkey` |
 | [MacMiddleClick](https://github.com/henrikhestnes/MacMiddleClick), middle clicks with a three-finger tap or click on the trackpad | `brew install --cask henrikhestnes/tap/macmiddleclick` |
+| [MacMouse](https://github.com/henrikhestnes/MacMouse), pointer speed, scroll wheel and mouse button settings for mice | `brew install --cask henrikhestnes/tap/macmouse` |
 | [MacMural](https://github.com/henrikhestnes/MacMural), a lightweight macOS screen annotation app | `brew install --cask henrikhestnes/tap/macmural` |
 | [MacSnip](https://github.com/henrikhestnes/MacSnip), an Ubuntu-style screenshot tool for the menu bar | `brew install --cask henrikhestnes/tap/macsnip` |
 
